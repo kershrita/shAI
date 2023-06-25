@@ -1,0 +1,16 @@
+Task 4 Extra Resources
+#####################
+- The 7 steps of machine learning
+https://youtu.be/nKW8Ndu7Mjw
+
+- Data Preparation Concepts
+https://youtu.be/BiPzz1xZ0XI
+
+- Dealing with categorical features
+https://youtu.be/WXHLLO4FnZs
+
+- Why Do We Need to Perform Feature Scaling?
+https://youtu.be/nmBqnKSSKfM
+
+-Root mean square error
+https://www.youtube.com/watch?v=zMFdb__sUpw&ab_channel=KhanAcademy

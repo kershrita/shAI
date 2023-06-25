@@ -1,0 +1,12 @@
+Pandas Extra Resources
+######################
+1-short video
+https://www.youtube.com/watch?v=tRKeLrwfUgU&ab_channel=NicholasRenotte
+or 
+https://www.youtube.com/watch?v=dcqPhpY7tWk&ab_channel=PythonProgrammer
+
+2-full tutorial video
+https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli
+
+3-pandas document
+https://pandas.pydata.org/docs/user_guide/index.html

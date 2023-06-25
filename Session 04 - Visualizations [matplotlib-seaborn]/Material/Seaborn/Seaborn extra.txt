@@ -1,0 +1,22 @@
+Seaborn Extra Resources
+#####################
+1-full tutorial video
+https://www.youtube.com/watch?v=6GUZXDef2U0&ab_channel=DerekBanas
+or
+https://www.youtube.com/playlist?list=PL6_D9USWkG1Bu9oQHvqAeurX-hhq_mZNi
+
+2-Seaborn documentation.
+https://seaborn.pydata.org/tutorial.html
+
+3-python-graph-gallery short tutorials
+https://python-graph-gallery.com/seaborn/
+
+#########################################
+-Boxplots
+https://youtu.be/tpToLyZibKM
+
+-The Effects of Outliers
+https://youtu.be/vcbMinm_1Q8
+
+-Quartiles, IQR
+https://www.youtube.com/watch?v=9jYqZS142mg&t=71s&ab_channel=WhatsUpDude

@@ -1,0 +1,15 @@
+Seaborn Extra Resources
+#####################
+1- Logistic Regression:
+	- short video: https://youtu.be/yIYKR4sgzI8
+	- sklearn doc.: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+
+2- K-nearest neighbors:
+	- short video: https://youtu.be/HVXime0nQeI
+	- sklearn doc.: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+
+3- Confusion Matrix:
+	- short video: https://youtu.be/yIYKR4sgzI8
+	- sklearn doc.: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html

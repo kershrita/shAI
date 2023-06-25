@@ -1,0 +1,13 @@
+NumPy Extra Resources
+#####################
+1-short video
+https://www.youtube.com/watch?v=xECXZ3tyONo&t=4s&ab_channel=PythonProgrammer
+
+2-full tutorial video
+https://www.youtube.com/watch?v=GB9ByFAIAH4&ab_channel=KeithGalli
+
+3-numpy document
+https://numpy.org/doc/stable/user/basics.html
+
+4-numpy exercise
+https://www.hackerrank.com/domains/python/numpy/difficulty/all/page/1

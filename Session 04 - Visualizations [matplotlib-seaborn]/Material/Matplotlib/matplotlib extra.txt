@@ -1,0 +1,15 @@
+Matplotlib Extra Resources
+#####################
+1-full tutorial video
+https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+or
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+2-choose plot type
+https://www.data-to-viz.com
+
+3-matplotlib documentation
+https://matplotlib.org/gallery/index.html
+
+4-python-graph-gallery short tutorials
+https://python-graph-gallery.com/matplotlib/
